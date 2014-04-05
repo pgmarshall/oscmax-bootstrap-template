@@ -1,0 +1,14 @@
+/*
+$Id: stylesheet.css 1511 2011-08-03 20:50:13Z cottonbarn $
+
+  osCmax e-Commerce
+  http://www.osCmax.com
+
+  Copyright 2000 - 2011 osCmax
+
+  Released under the GNU General Public License
+*/
+
+/* split_page_results */
+.pagenav { position:relative;top:-25px;left:3px }
+.pagenumber { margin-bottom:7px }
